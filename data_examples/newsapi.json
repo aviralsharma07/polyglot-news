@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 39629,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Joel Khalili",
+      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+      "description": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+      "urlToImage": "https://media.wired.com/photos/69e8f8b80a0e9a68acb2cc2c/191:100/w_1280,c_limit/Bloomberg-Overhauls-Terminal-With-AI-Business-AP-22088642035693.jpg",
+      "publishedAt": "2026-04-28T08:30:00Z",
+      "content": "For its famous intractability, the Bloomberg Terminal has long inspired devotion, bordering on obsession. Among traders, the ability to chart a path through the softwares dizzying scrolls of numbers … [+3521 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
+      "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.",
+      "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
+      "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
+      "publishedAt": "2026-04-28T13:00:00Z",
+      "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann… [+3698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Poverty and technology fueling record levels of slavery in UK",
+      "description": "An independent report warns cost of living pressures are driving up exploitation levels in Britain.",
+      "url": "https://www.bbc.com/news/articles/c1j2gd8yr6go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c7ca/live/8c88ebf0-47f1-11f1-ac78-2112837ce2aa.jpg",
+      "publishedAt": "2026-05-05T01:18:14Z",
+      "content": "\"Behind these numbers are real people being abused in ways most of us would struggle to imagine, whether it's women forced into the sex trade, children coerced into drug gangs, or workers trapped in … [+78 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "description": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers U…",
+      "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-05-05T10:08:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers dont want to be complicit in helping make genocide cheaper, faster, and more efficient.\r\nStaffers dont want to be complicit in helping make genocide che… [+4117 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "description": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in or…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-04-30-at-8.56.42AM.png?quality=90&strip=all&crop=0%2C2.8374717516107%2C100%2C94.325056496779&w=1200",
+      "publishedAt": "2026-05-01T13:25:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nChristian content creators are outsourcing AI slop to gig workers on Fiverr\r\nDemand for AI-generated Bible content is high.\r\nby\r\nCharles Pulliam-MooreClose\r\nPost… [+8233 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google shuts down Project Mariner",
+      "description": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Proje…",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&strip=all&crop=0%2C12.533882885894%2C100%2C74.932234228213&w=1200",
+      "publishedAt": "2026-05-06T21:21:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Project Mariner experiment lives on in Gemini Agent and AI Mode.\r\nThe Project Mariner experiment lives on in Gemini Agent and AI Mode.\r\nby\r\nEmma RothClose\r\nP… [+2356 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "description": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my v…",
+      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-05-11T13:48:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe journalist and author of I Am Not a Robot on her year living with AI and starting a new media company.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be … [+56891 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Trump administration defends right to ban content moderation experts from US",
+      "description": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Resea…",
+      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2250140843.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
+      "publishedAt": "2026-05-13T21:58:44Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA group of independent tech researchers is seeking to block the State Department policy.\r\nA group of independent tech researchers is seeking to block the State D… [+4726 chars]"
+    }
+  ]
+}
