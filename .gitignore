@@ -12,3 +12,9 @@ wheels/
 # Env files
 .env
 .env.*
+
+# OS metadata
+.DS_Store
+
+# Generated output
+digests/
